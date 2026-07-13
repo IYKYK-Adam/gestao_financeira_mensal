@@ -312,7 +312,6 @@ struct dados menuFuncionalidades(struct dados mes, float fixo, char descricao[10
 }
 
 
-
 //////////////
 /////MAIN/////
 //////////////
